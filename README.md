@@ -1,4 +1,4 @@
-# cypress-roadmap
+# cypress-learning-roadmap
 Acelere seu aprendizado sobre Cypress priorizando o que estudar primeiro.
 
 # Problema
