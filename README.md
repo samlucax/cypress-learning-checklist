@@ -12,7 +12,7 @@ Claro, isso em um **mundo** onde não tenhamos filhos, imprevistos ou estudos "f
 
 Qualquer um dos itens acima pode reduzir drasticamente o tempo que temos disponível para nos dedicarmos a aprender algo novo. Por isso, de tempos em tempos costumo revisar minhas formas de aprendizado e como eu poderia aprender de forma mais rápida se tivesse que aprender o mesmo assunto de novo. E claro, como isso pode ajudar outras pessoas que estão querendo aprender o mesmo que eu pela 1st vez - ou ao menos tentando otimizar seus estudos.
 
-# Solução
+# Sugestão
 
 Dito isso, criei esta lista por ordem de **prioridade** de comandos do Cypress que você deve estudar. Sendo:
 
