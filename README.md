@@ -1,26 +1,27 @@
 # cypress-learning-checklist
 Acelere seu aprendizado sobre Cypress priorizando o que estudar primeiro.
 
-# Problema
-Nosso dia tem 24hs, mas isso não quer dizer que temos 24hs disponíveis. Em geral:
+<p align="center"><img src="cypress-learning-checklist.png" width="90%"/></p>
+
+Nosso dia tem 24hs, mas obviamente não temos 24hs disponíveis. Em geral:
+
 - 8hs estamos trabalhando
 - 8hs estamos dormindo
 - 3hs estamos nos afazeres domésticos
 - 5hs é o que sobra para alimentação, estudos, lazer.
 
-Claro, isso em um **mundo** onde não tenhamos filhos, imprevistos ou estudos "formais" (faculdade, pós, mba, etc.).
+Isso sem contar deslocamentos, família, imprevistos.
 
-Qualquer um dos itens acima pode reduzir drasticamente o tempo que temos disponível para nos dedicarmos a aprender algo novo. Por isso, de tempos em tempos costumo revisar minhas formas de aprendizado e como eu poderia aprender de forma mais rápida se tivesse que aprender o mesmo assunto de novo. E claro, como isso pode ajudar outras pessoas que estão querendo aprender o mesmo que eu pela 1st vez - ou ao menos tentando otimizar seus estudos.
+Todos os estes itens influenciam no tempo que temos (ou que não temos) para aprender algo novo. Por isso, de tempos em tempos eu costumo testar alguma técnica de aprendizado para entender qual seria a forma mais rápida e assertiva, caso tivesse que aprender o mesmo assunto de novo. Acredito que isso pode ajudar outras pessoas, por isso estou compartilhando o Cypress Learning Checklist.
 
-# Sugestão
+O Cypress Learning Checklist é uma lista com comandos do Cypress organizados por ordem de prioridade. O critério adotado para essa priorização foi a frequência de uso destes comandos, considerando a minha experiência. Ficou assim:
 
-Dito isso, criei esta lista por ordem de **prioridade** de comandos do Cypress que você deve estudar. Sendo:
+- Comandos usados com frequência alta - 3 estrelas ⭐️⭐️⭐️
+- Comandos usados com frequência moderada - 2 estrelas ⭐️⭐️
+- Comandos usado com frequência baixa - 1 estrelas ⭐️
 
-- ⭐️⭐️⭐️ primeiro
-- ⭐️⭐️ segundo
-- ⭐️ terceiro
+<p align="center">Pra te ajudar a lembrar o que já estudou ou não, criei  <strong><a href="https://www.notion.so/Cypress-Learning-Checklist-2e9ee8cd9b4e42809deedea597710079">esse template no Notion</a>.</strong> Use para te ajudar a revisar ⚡️ </p>
 
-*Pra te ajudar a lembrar o que já leu ou não, criei esse template no Notion. É só importar ⚡️*
 
 ### Comandos ⭐️⭐️⭐️
 
