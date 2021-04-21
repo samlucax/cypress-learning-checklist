@@ -1,5 +1,6 @@
-# cypress-learning-checklist
-Acelere seu aprendizado sobre Cypress priorizando o que estudar primeiro.
+<h1 align="center">Cypress Learning Checklist</h1>
+
+<p align="center">Acelere seu aprendizado sobre Cypress priorizando o que estudar primeiro.</p>
 
 <p align="center"><img src="cypress-learning-checklist.png" width="90%"/></p>
 
